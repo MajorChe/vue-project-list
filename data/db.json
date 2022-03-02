@@ -2,13 +2,13 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage banner",
+      "title": "Create add project page",
       "details": "Lorem ipsum",
       "complete": false
     },
     {
       "id": 2,
-      "title": "Make marketing email",
+      "title": "Add chat feature",
       "details": "Lorem Ipsum",
       "complete": true
     },
