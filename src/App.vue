@@ -1,5 +1,9 @@
 <template>
-  <router-view/>
+  <nav>
+    <router-link :to="{ name: 'Home' }">Home</router-link>
+    <router-link :to="{ name: 'AddProject' }">Add Project</router-link>
+  </nav>
+  <router-view />
 </template>
 
 <style>
@@ -14,5 +18,4 @@ body {
   margin: 0 auto;
   color: #2c3e50;
 }
-
 </style>
