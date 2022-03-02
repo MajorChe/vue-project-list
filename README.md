@@ -2,8 +2,8 @@
 
 ## Project screenshots
 
-<img src="./src/assets/homepage.png" width=80%>
-<img src="./src/assets/addproject.png" width=80%>
+<img src="https://github.com/MajorChe/vue-project-list/blob/master/src/assets/homepage.PNG" width=80%>
+<img src="https://github.com/MajorChe/vue-project-list/blob/master/src/assets/addproject.PNG" width=80%>
 
 ## Project setup
 ```
