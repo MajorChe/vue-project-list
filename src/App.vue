@@ -1,14 +1,17 @@
 <template>
-  <nav>
-    <router-link :to="{ name: 'Home' }">Home</router-link>
-    <router-link :to="{ name: 'AddProject' }">Add Project</router-link>
-  </nav>
+  <Navbar />
   <router-view />
 </template>
 
+<script>
+import Navbar from "./components/Navbar.vue";
+export default {
+  components: { Navbar },
+};
+</script>
 <style>
 body {
-  background: #d3d3d3;
+  background: #f8f7f7;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

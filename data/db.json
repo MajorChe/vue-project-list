@@ -11,6 +11,12 @@
       "title": "Make marketing email",
       "details": "Lorem ipsum",
       "complete": true
+    },
+    {
+      "title": "Design home page",
+      "details": "lorem ipsum",
+      "complete": false,
+      "id": 3
     }
   ]
 }
